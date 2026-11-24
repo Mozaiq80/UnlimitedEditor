@@ -16,3 +16,9 @@
 *.apk
 *.aab
 *.bak*
+# Release signing keys
+keystore.properties
+*.jks
+*.keystore
+
+*.apk
